@@ -1,0 +1,5 @@
+{
+    "Hoje nao e o dia do Rock": [true, true, false, false, true],
+    "Paz e Amor": [true, true, true, false, false],
+    "Tudo Legal": [true, false, false, false, false]
+}
